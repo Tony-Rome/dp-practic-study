@@ -1,1 +1,1 @@
-# Practical deep learning challenges only for study propose
+# Practical deep learning challenges only for study proposal
